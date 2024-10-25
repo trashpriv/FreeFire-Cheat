@@ -5,7 +5,7 @@ A simple loader built with ImGui, which may soon evolve into something significa
 Created by me; feel free to use it however you like.
 
 ## Screenshot
-![](https://ibb.co/jR1yKZx)
+![](https://i.postimg.cc/GhXgsn48/Screenshot-1.png)
 
 ## Video
-![](https://streamable.com/xze4pe)
+[Showcase](https://streamable.com/xze4pe)
